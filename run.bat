@@ -1,0 +1,2 @@
+python cs2_demo_fetcher_CLI.py
+pause
